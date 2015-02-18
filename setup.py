@@ -14,7 +14,7 @@ setup(
     license = "BSD",
     platforms = ["any"],
 
-    install_requires = ["nose>=0.1.0"],
+    install_requires = ["nose>=0.1.0, ==dev"],
 
     url = "http://github.com/dmccombs/nosepipe/",
 
